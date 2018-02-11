@@ -1,2 +1,2 @@
-# com_megasearch
+# MegaSearch Package
 A full admin search extension
